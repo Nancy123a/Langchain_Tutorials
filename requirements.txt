@@ -1,0 +1,17 @@
+openai
+langchain
+streamlit
+langchain-community
+langchain-openai
+python-dotenv
+unstructured
+tiktoken
+pinecone-client
+pandas
+numpy
+python-dotenv
+faiss-cpu
+PyPDF2
+google-generativeai
+langchain
+langchain_google_genai
